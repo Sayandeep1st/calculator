@@ -1,5 +1,6 @@
- 
+##Introduction 
 
+Hi Coders, Welcome to my code. Here I have made a calculator using MakeCode by Microsoft.
 
 > Open this page at [https://sayandeep1st.github.io/calculator/](https://sayandeep1st.github.io/calculator/)
 
